@@ -56,7 +56,7 @@ def heart(x,y):
     screen.blit(heartImg,(x+16,y+10))
 
 # icon and title
-title = pygame.display.set_caption("Anh Yêu Em")
+title = pygame.display.set_caption("AnhYêuEm")
 icon = pygame.image.load('heart.png')
 pygame.display.set_icon(icon)
 
