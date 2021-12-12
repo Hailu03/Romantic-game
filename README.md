@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Finish my first year at university
-- ⚡ Fun fact: I love programming, listening to music anh playing soccer
+- ⚡ Fun fact: I love programming, listening to musicandd playing soccer
 
 ### Connect with me:
 
