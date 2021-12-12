@@ -36,6 +36,10 @@
 
 <img align="left" alt="Instagram.com" width="350px" src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.6435-9/134831605_1011100736045698_7464906162397042629_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=JYTTUERsKpUAX-IH2dZ&_nc_ht=scontent.fsgn2-6.fna&oh=d8571ca18081805e48e8cb4830470c77&oe=61DBD8EA" />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
