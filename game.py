@@ -22,7 +22,7 @@ haiY_change = []
 num_of_hai = 5
 
 for i in range(num_of_hai):
-    haiImg.append(pygame.image.load('hai.png'))
+    haiImg.append(pygame.image.load('https://scontent.fhan5-11.fna.fbcdn.net/v/t39.30808-6/245799429_636954167460257_2234779218500727652_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_ohc=qGZVV8Znd80AX-iRkZp&_nc_ht=scontent.fhan5-11.fna&oh=dba8ee342f744829b56afcbc2c7fe9fa&oe=61A4C68C'))
     haiX.append(random.randint(0,735))
     haiY.append(random.randint(20,150))
     haiX_change.append(0.2)
@@ -32,7 +32,7 @@ for i in range(num_of_hai):
         screen.blit(haiImg[i],(x,y))
 
 # your girl friend
-nganImg = pygame.image.load('ngan.png')
+nganImg = pygame.image.load('https://scontent.fhan5-9.fna.fbcdn.net/v/t1.15752-9/253840737_324927635684537_6034894499740075204_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=ZcpHFzzv3dsAX9j2V0d&tn=tctZEbdvpgamC8Pm&_nc_ht=scontent.fhan5-9.fna&oh=dffc946edbb5596ff65bc5a481ba0f71&oe=61C54BC9')
 nganX = 380
 nganY = 500
 nganX_change = 0
@@ -77,7 +77,7 @@ textX = 10
 textY = 10
 
 def show_score(x,y):
-    score = font.render("Yêu Anh x " + str(score_value),True, (150,150,255))
+    score = font.render("Yêu Changg x " + str(score_value),True, (150,150,255))
     screen.blit(score,(x,y))
 
 # Game over
