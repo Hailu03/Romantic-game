@@ -155,6 +155,7 @@ while running:
         collision = iscollision(haiX[i],haiY[i],heartX,heartY)
         if collision:
             heart_state = "ready"
+            heartY = nganY
             haiY[i] = random.randint(50,150)
             haiX[i] = random.randint(0,735)
             score_value += 1
